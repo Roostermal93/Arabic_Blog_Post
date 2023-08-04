@@ -8,21 +8,21 @@
             "collectionId": "Arabic",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Arabic/2c17b59e-1f68-4503-8b1f-fdea79adb084_Ar_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Arabic/2c17b59e-1f68-4503-8b1f-fdea79adb084_ar_Female.mp4"
         },
         {
             "id": "7f4c0276-e924-4ab6-9f50-2c35e86fe6bc",
             "collectionId": "Arabic",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Arabic/7f4c0276-e924-4ab6-9f50-2c35e86fe6bc_Ar_Male.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Arabic/7f4c0276-e924-4ab6-9f50-2c35e86fe6bc_ar_Male.mp4"
         },
         {
             "id": "3460af70-a65d-4cbf-b199-59d9ed0532a6",
             "collectionId": "Arabic",
             "type": "Blog_Post",
             "status": "private",
-            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog/Arabic/3460af70-a65d-4cbf-b199-59d9ed0532a6_Ar_Female.mp4"
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Blog_Post/Arabic/3460af70-a65d-4cbf-b199-59d9ed0532a6_ar_Female.mp4"
         }
     ]
 }
